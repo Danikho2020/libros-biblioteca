@@ -1,0 +1,14 @@
+{
+    "titulo": "Las venas abiertas de América Latina",
+    "isbn": "ISBN - 902 - 0932",
+    "editorial": "Editorial A",
+    "paginas": "400",
+    "autor": "Eduardo Galeano",
+    "descripcion": "El autor opina sobre la historia de América Latina desde la colonización hasta la América Latina contemporánea.",
+    "imagenes":[
+        "https://danikho2020.github.io/img-biblioteca/5/1.jfif",
+        "https://danikho2020.github.io/img-biblioteca/5/2.jfif",
+        "https://danikho2020.github.io/img-biblioteca/5/3.jfif"
+    ],
+    "relacionados":[2,3]
+}

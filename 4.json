@@ -1,0 +1,14 @@
+{
+    "titulo": "Pequeña ala",
+    "isbn": "ISBN - 902 - 3999",
+    "editorial": "Editorial B",
+    "paginas": "550",
+    "autor": "Roy Berocay",
+    "descripcion": "Una trilogía fascinante sobre el amor, la amistad, los cambios y la lucha por alcanzar lo que soñamos.",
+    "imagenes":[
+        "https://danikho2020.github.io/img-biblioteca/4/1.jfif",
+        "https://danikho2020.github.io/img-biblioteca/4/2.jfif",
+        "https://danikho2020.github.io/img-biblioteca/4/3.jfif"
+    ],
+    "relacionados":[1,2]
+}

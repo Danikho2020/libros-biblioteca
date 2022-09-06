@@ -1,0 +1,14 @@
+{
+    "titulo": "El pozo",
+    "isbn": "ISBN - 902 - 9245",
+    "editorial": "Editorial C",
+    "paginas": "250",
+    "autor": "Juan Carlos Onetti",
+    "descripcion": "Monólogo en el que su protagonista, Eladio Linacero, vuelca su escepticismo por la existencia y la vida en general, y la evade a partir de diversos sueños que acuden a su mente.",
+    "imagenes":[
+        "https://danikho2020.github.io/img-biblioteca/3/1.jfif",
+        "https://danikho2020.github.io/img-biblioteca/3/2.jfif",
+        "https://danikho2020.github.io/img-biblioteca/3/3.jfif"
+    ],
+    "relacionados":[2,1]
+}
